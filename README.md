@@ -24,3 +24,14 @@ https://raw.githubusercontent.com/ahiad93/rewallet-merchant-assets/main/<merchan
 |---|---|---|
 | Juice & more | `juice-and-more/juice_and_more_logo.png` | `juice-and-more/juice_and_more_cover.jpg` |
 | מדאמס (Maddamas) | `maddamas/maddamas_logo.png` | `maddamas/maddamas_cover.jpg` |
+| Cafe Cezanne | `cafe-cezanne/cafe_cezanne_logo.png` | `cafe-cezanne/cafe_cezanne_cover.jpg` |
+
+## Preparing a logo
+
+Wide wordmarks and tall lockups get clipped by the app's circular crop. Run:
+
+```
+python3 tools/circle_safe_logo.py <source> <slug>/<slug>_logo.png
+```
+
+It centres the artwork and pads with the logo's own background until everything fits inside the circle.
