@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/ahiad93/rewallet-merchant-assets/main/<merchan
 | מדאמס (Maddamas) | `maddamas/maddamas_logo.png` | `maddamas/maddamas_cover.jpg` |
 | Cafe Cezanne | `cafe-cezanne/cafe_cezanne_logo.png` | `cafe-cezanne/cafe_cezanne_cover.jpg` |
 | קיקי בר (KiKi Bar) | `kiki-bar/kiki_bar_logo.png` | `kiki-bar/kiki_bar_cover.jpg` |
+| קפה שלנו (Cafe Shelanu) | `cafe-shelanu/cafe_shelanu_logo.png` | `cafe-shelanu/cafe_shelanu_cover.jpg` |
 
 ## Preparing a logo
 
