@@ -30,6 +30,7 @@ https://raw.githubusercontent.com/ahiad93/rewallet-merchant-assets/main/<merchan
 | ארו קפה (Aro Cafe) | `aro-cafe/aro_cafe_logo.png` | `aro-cafe/aro_cafe_cover.jpg` |
 | פיצה אורון (Pizza Oron) | `pizza-oron/pizza_oron_logo.png` | `pizza-oron/pizza_oron_cover.jpg` |
 | כנאפה כעכ (Knafe Kaak) | `knafe-kaak/knafe_kaak_logo.png` | `knafe-kaak/knafe_kaak_cover.jpg` |
+| לה בושרי פראנסייז (La Boucherie Francaise) | `la-boucherie-francaise/la_boucherie_francaise_logo.png` | `la-boucherie-francaise/la_boucherie_francaise_cover.jpg` |
 
 ## Preparing a logo
 
