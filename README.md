@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/ahiad93/rewallet-merchant-assets/main/<merchan
 | קפה שלנו (Cafe Shelanu) | `cafe-shelanu/cafe_shelanu_logo.png` | `cafe-shelanu/cafe_shelanu_cover.jpg` |
 | ארו קפה (Aro Cafe) | `aro-cafe/aro_cafe_logo.png` | `aro-cafe/aro_cafe_cover.jpg` |
 | פיצה אורון (Pizza Oron) | `pizza-oron/pizza_oron_logo.png` | `pizza-oron/pizza_oron_cover.jpg` |
+| כנאפה כעכ (Knafe Kaak) | `knafe-kaak/knafe_kaak_logo.png` | `knafe-kaak/knafe_kaak_cover.jpg` |
 
 ## Preparing a logo
 
